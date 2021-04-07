@@ -6,3 +6,7 @@ Lightweight implementation of DepoReader.
  - Tested on .pdf files of manus
  - Tested on .pdf files of linked manus
  - Tested on .pdf files of minus (currently experiencing slight formatting issues, WIP)
+
+## Requirements:
+ - Python 3
+ - PyPDF4: https://github.com/claird/PyPDF4
